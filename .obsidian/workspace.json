@@ -11,14 +11,10 @@
             "id": "1af886a3f53d9133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testsadapsdm.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "testsadapsdm"
+              "title": "New tab"
             }
           }
         ]
@@ -182,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.828125
+    "width": 244.39453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aac0b1f1e2e3fd8",
+  "active": "b77b6a0b1597a903",
   "lastOpenFiles": [
+    "Test.md",
+    "Gym/Routine.md",
     "testsadapsdm.md",
+    "Untitled",
+    "Gym",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "University/General/Mcmaster important.md",
     "University/Drawing 2026-08-27 16.55.03.excalidraw.md",
@@ -220,8 +221,6 @@
     "University/Courses/WHMIS 1A00",
     "University/Courses/MATH 1ZA3/Untitled.md",
     "University/Courses/MATH 1ZA3",
-    "University/Courses",
-    "University/Courses/PSYCH 1X03",
     "University/Untitled.canvas",
     "2026-08-24.md",
     "Untitled 4.canvas",
