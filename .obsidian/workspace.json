@@ -154,17 +154,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sf/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
-            "id": "3ef8d06a2c75b484",
+            "id": "6aac0b1f1e2e3fd8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -190,7 +189,6 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false
     }
   },
