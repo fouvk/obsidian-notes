@@ -1,0 +1,4 @@
+- **Move-in:** August 29–30, 2026
+- **Winter break closure:** December 24, 2026- January 3, 2027 (exceptions apply for approved students)
+- **Final move-out:** April 23, 2027, at 3:00 p.m.
+- Students must vacate residence **no later than the day after their final exam**, by the specified move-out time.

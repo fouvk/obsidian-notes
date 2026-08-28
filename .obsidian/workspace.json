@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "ff6c7fe564dcc37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "23554a5809c48104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af886a3f53d9133",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d4931697d07763e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3924d257fe834b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77b6a0b1597a903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35f9775075f01a08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28fb279e8ee27ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d11a583a2c17f8ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2857cad77238c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d53c7a38397686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sf/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "22edcea7f61de4c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sf/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "eccbcb843dd37cd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41e3e68a7bd84a00",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "07dd2e47a25adce8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sf/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "3ef8d06a2c75b484",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b77b6a0b1597a903",
+  "lastOpenFiles": [
+    "University/General/Mcmaster important.md",
+    "Untitled.canvas",
+    "University/Drawing 2026-08-27 16.55.03.excalidraw.md",
+    "Excalidraw",
+    "University/Courses/MATH 1ZA3/Engineering Mathematics I.md",
+    "Untitled.md",
+    "University/Index.base",
+    "Untitled.base",
+    "University/Courses/COMPSCI 1MD3/Introduction to Programming.md",
+    "University/Courses/COMPSCI 1JC3/Introduction to Computational Thinking.md",
+    "University/Courses/ENGINEER 1EE0/Introduction to Career Planning & Employment.md",
+    "Gym",
+    "University/Courses/MATH 1B03/Linear Algebra I.md",
+    "University/Courses/ENGINEER 1EE0",
+    "University/Courses/Untitled.md",
+    "University/Courses/WHMIS 1A00/Introduction to Health and Safety.md",
+    "University/Courses/MATH 1B03",
+    "University/Courses/PSYCH 1X03/Introduction to Psychology, Neuroscience & Behaviour.md",
+    "University/Courses/WHMIS 1A00",
+    "University/Courses/MATH 1ZA3/Untitled.md",
+    "University/Courses/MATH 1ZA3",
+    "University/Courses",
+    "University/Courses/PSYCH 1X03",
+    "University/Untitled.canvas",
+    "2026-08-24.md",
+    "Untitled 4.canvas",
+    "v.canvas",
+    "Untitled 1.canvas",
+    "sf/POI's (Mob Groups).md",
+    "2026-07-29.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "sf/Untitled.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
