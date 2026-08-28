@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Gym/Routine.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.828125
+    "width": 244.39453125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
