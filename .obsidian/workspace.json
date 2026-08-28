@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testsadapsdm.md",
+                "file": "Gym/Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testsadapsdm"
+              "title": "Routine"
             }
           }
         ]
@@ -197,11 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77b6a0b1597a903",
+  "active": "1af886a3f53d9133",
   "lastOpenFiles": [
-    "Untitled",
     "Test.md",
+    "Gym/Routine.md",
     "testsadapsdm.md",
+    "Untitled",
+    "Gym",
     "conflict-files-obsidian-git.md",
     "Gym/Routine.md",
     "Untitled.canvas",
@@ -224,8 +226,6 @@
     "University/Courses/WHMIS 1A00",
     "University/Courses/MATH 1ZA3/Untitled.md",
     "University/Courses/MATH 1ZA3",
-    "University/Courses",
-    "University/Courses/PSYCH 1X03",
     "University/Untitled.canvas",
     "2026-08-24.md",
     "Untitled 4.canvas",
