@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Routine.md",
-                "mode": "preview",
+                "file": "testsadapsdm.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routine"
+              "title": "testsadapsdm"
             }
           }
         ]
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.39453125,
-    "collapsed": true
+    "width": 307.828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1af886a3f53d9133",
+  "active": "6aac0b1f1e2e3fd8",
   "lastOpenFiles": [
     "testsadapsdm.md",
-    "Gym/Routine.md",
-    "Test.md",
     "Untitled.canvas",
     "University/General/Mcmaster important.md",
     "University/Drawing 2026-08-27 16.55.03.excalidraw.md",
