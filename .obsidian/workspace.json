@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Courses/COMPSCI 1JC3/Course Information/outline.pdf"
+                "file": "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "outline"
+              "title": "wmfarmer-bio-sheet-2026a"
             }
           }
         ]
@@ -195,12 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1af886a3f53d9133",
+  "active": "b77b6a0b1597a903",
   "lastOpenFiles": [
-    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking.md",
-    "University/Courses/COMPSCI 1JC3/Textbooks/Haskell The Craft of Functional Programming.pdf",
+    "University/Courses/PSYCH 1X03/Course Information/Fall-2026-PSYCH-1X03-C04-CADIEUM-Introduction-to-Psychology,-Neuroscience-&-Behaviour.pdf",
+    "University/Courses/PSYCH 1X03/Course Information",
+    "University/Courses/PSYCH 1X03/Fall-2026-PSYCH-1X03-C04-CADIEUM-Introduction-to-Psychology,-Neuroscience-&-Behaviour.pdf",
     "University/Courses/COMPSCI 1JC3/Course Information/schedule.pdf",
     "University/Courses/COMPSCI 1JC3/Course Information/outline.pdf",
+    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking.md",
+    "University/Courses/COMPSCI 1JC3/Textbooks/Haskell The Craft of Functional Programming.pdf",
     "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
     "University/Courses/COMPSCI 1JC3/Textbooks.md",
     "University/Courses/COMPSCI 1JC3/Textbooks",
@@ -213,11 +216,9 @@
     "testsadapsdm.md",
     "Gym",
     "Test.md",
-    "Gym",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "University/General/Mcmaster important.md",
-    "Excalidraw",
     "University/Courses/MATH 1ZA3/Engineering Mathematics I.md",
     "University/Courses/ENGINEER 1EE0/Introduction to Career Planning & Employment.md",
     "University/Courses/MATH 1B03/Linear Algebra I.md",
