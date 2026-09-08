@@ -11,12 +11,14 @@
             "id": "1af886a3f53d9133",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "University/Courses/MATH 1B03/Textbooks/Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive.pdf"
+                "file": "University/Courses/COMPSCI 1JC3/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -198,23 +200,24 @@
   "active": "1af886a3f53d9133",
   "lastOpenFiles": [
     "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf",
+    "University/Courses/COMPSCI 1JC3/Untitled.md",
+    "University/Courses/FIRST QUESTIONS.md",
     "University/Courses/MATH 1B03/Textbooks/Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive.pdf",
-    "University/Courses/MATH 1B03/Textbooks",
-    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking -- Paul S_ Wang -- 2017 -- CRC Press -- 23c5dc5bc83bb965372063ff9cb291bb -- Anna’s Archive.pdf",
-    "University/Courses/MATH 1B03/Course Information",
-    "University/Courses/MATH 1ZA3/Textbooks/Calculus_ Early Transcendentals, 9th Edition -- James Stewart, Daniel K_ Clegg, Saleem Watson, Lothar Redlin -- Stewart's Calculus, 1, 9, 2020 -- isbn13 9780357022290 -- 4d84bb2c3e37723ee4e64e678535ca78 -- Anna’s Archive.pdf",
-    "University/Courses/MATH 1ZA3/Textbooks",
-    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking.md",
+    "University/Courses/COMPSCI 1MD3/Introduction to Programming.md",
+    "University/Courses/COMPSCI 1JC3/Course Information/outline.pdf",
     "University/Courses/COMPSCI 1JC3/Textbooks/Haskell The Craft of Functional Programming.pdf",
-    "University/Courses/MATH 1ZA3/Course Information/Fall-2026-MATH-1ZA3-C01-CHILDSA-Engineering-Mathematics-I.pdf",
-    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking -- Paul S_ Wang -- 2017 -- CRC Press -- 23c5dc5bc83bb965372063ff9cb291bb -- Anna’s Archive.epub",
+    "University/Courses/COMPSCI 1JC3/Course Information/haskell-prog-style.pdf",
+    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking -- Paul S_ Wang -- 2017 -- CRC Press -- 23c5dc5bc83bb965372063ff9cb291bb -- Anna’s Archive.pdf",
+    "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
+    "University/Courses/COMPSCI 1JC3/Course Information/schedule.pdf",
+    "University/Courses/MATH 1B03/Textbooks",
+    "University/Courses/MATH 1B03/Course Information",
+    "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking.md",
     "University/Courses/MATH 1ZA3/Engineering Mathematics I.md",
     "University/Courses/PSYCH 1X03/Web Modules.md",
-    "University/Courses/MATH 1ZA3/Fall-2026-MATH-1ZA3-C01-CHILDSA-Engineering-Mathematics-I.pdf",
     "University/Courses/PSYCH 1X03/Introduction to Psychology, Neuroscience & Behaviour.md",
     "University/Courses/COMPSCI 1JC3/Textbooks.md",
     "University/Courses/COMPSCI 1JC3/Introduction to Computational Thinking.md",
-    "University/Courses/COMPSCI 1MD3/Introduction to Programming.md",
     "University/Drawing 2026-08-27 16.55.03.excalidraw.md",
     "Gym/Routine.md",
     "testsadapsdm.md",
@@ -224,7 +227,6 @@
     "University/General/Mcmaster important.md",
     "University/Courses/ENGINEER 1EE0/Introduction to Career Planning & Employment.md",
     "University/Courses/MATH 1B03/Linear Algebra I.md",
-    "University/Courses/Untitled.md",
     "University/Courses/WHMIS 1A00/Introduction to Health and Safety.md",
     "University/Courses/MATH 1ZA3/Untitled.md",
     "University/Untitled.canvas",
