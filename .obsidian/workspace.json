@@ -11,14 +11,12 @@
             "id": "1af886a3f53d9133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "University/Courses/COMPSCI 1JC3/intro.md",
-                "mode": "source",
-                "source": false
+                "file": "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf"
               },
-              "icon": "lucide-file",
-              "title": "intro"
+              "icon": "lucide-file-text",
+              "title": "Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I"
             }
           }
         ]
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.73828125
   },
   "right": {
     "id": "d11a583a2c17f8ab",
@@ -199,19 +197,21 @@
   },
   "active": "1af886a3f53d9133",
   "lastOpenFiles": [
-    "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
-    "University/Courses/COMPSCI 1JC3/intro.md",
-    "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf",
-    "University/Courses/FIRST QUESTIONS.md",
+    "University/Courses/MATH 1B03/Linear Algebra I intro.md",
+    "University/Courses/MATH 1B03/Course Information/labtaschedule.jpg",
     "University/Courses/MATH 1B03/Textbooks/Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive.pdf",
+    "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf",
+    "University/Courses/COMPSCI 1MD3/Course Information/CS1MD3_outline_2026.pdf",
     "University/Courses/COMPSCI 1MD3/Introduction to Programming.md",
-    "University/Courses/COMPSCI 1JC3/Course Information/outline.pdf",
+    "University/Courses/COMPSCI 1MD3/Course Information",
+    "University/Courses/COMPSCI 1JC3/00 intro.md",
     "University/Courses/COMPSCI 1JC3/Textbooks/Haskell The Craft of Functional Programming.pdf",
-    "University/Courses/COMPSCI 1JC3/Course Information/haskell-prog-style.pdf",
     "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking -- Paul S_ Wang -- 2017 -- CRC Press -- 23c5dc5bc83bb965372063ff9cb291bb -- Anna’s Archive.pdf",
+    "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
+    "University/Courses/FIRST QUESTIONS.md",
+    "University/Courses/COMPSCI 1JC3/Course Information/outline.pdf",
+    "University/Courses/COMPSCI 1JC3/Course Information/haskell-prog-style.pdf",
     "University/Courses/COMPSCI 1JC3/Course Information/schedule.pdf",
-    "University/Courses/MATH 1B03/Textbooks",
-    "University/Courses/MATH 1B03/Course Information",
     "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking.md",
     "University/Courses/MATH 1ZA3/Engineering Mathematics I.md",
     "University/Courses/PSYCH 1X03/Web Modules.md",
@@ -226,7 +226,6 @@
     "Untitled.canvas",
     "University/General/Mcmaster important.md",
     "University/Courses/ENGINEER 1EE0/Introduction to Career Planning & Employment.md",
-    "University/Courses/MATH 1B03/Linear Algebra I.md",
     "University/Courses/WHMIS 1A00/Introduction to Health and Safety.md",
     "University/Courses/MATH 1ZA3/Untitled.md",
     "University/Untitled.canvas",
