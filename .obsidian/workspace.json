@@ -11,15 +11,28 @@
             "id": "1af886a3f53d9133",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7f53bb7a89b2a453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf"
+                "file": "University/Courses/MATH 1B03/Linear Algebra I intro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I"
+              "icon": "lucide-file",
+              "title": "Linear Algebra I intro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.39453125
+    "width": 214.28125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,12 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1af886a3f53d9133",
+  "active": "7f53bb7a89b2a453",
   "lastOpenFiles": [
+    "University/Courses/MATH 1B03/l1.md",
     "University/Courses/MATH 1B03/Linear Algebra I intro.md",
     "University/Courses/MATH 1B03/Course Information/labtaschedule.jpg",
-    "University/Courses/MATH 1B03/Textbooks/Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive.pdf",
     "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf",
+    "University/Courses/MATH 1B03/Textbooks/Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive.pdf",
+    "University/Courses/MATH 1B03/lec1.md",
+    "University/Courses/MATH 1B03/lec1.restored.md",
+    "Excalidraw",
+    "University/Courses/MATH 1ZA3/Course Information/Fall-2026-MATH-1ZA3-C01-CHILDSA-Engineering-Mathematics-I.pdf",
     "University/Courses/COMPSCI 1MD3/Course Information/CS1MD3_outline_2026.pdf",
     "University/Courses/COMPSCI 1MD3/Introduction to Programming.md",
     "University/Courses/COMPSCI 1MD3/Course Information",
@@ -210,15 +228,12 @@
     "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
     "University/Courses/FIRST QUESTIONS.md",
     "University/Courses/COMPSCI 1JC3/Course Information/outline.pdf",
-    "University/Courses/COMPSCI 1JC3/Course Information/haskell-prog-style.pdf",
-    "University/Courses/COMPSCI 1JC3/Course Information/schedule.pdf",
     "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking.md",
     "University/Courses/MATH 1ZA3/Engineering Mathematics I.md",
     "University/Courses/PSYCH 1X03/Web Modules.md",
     "University/Courses/PSYCH 1X03/Introduction to Psychology, Neuroscience & Behaviour.md",
     "University/Courses/COMPSCI 1JC3/Textbooks.md",
     "University/Courses/COMPSCI 1JC3/Introduction to Computational Thinking.md",
-    "University/Drawing 2026-08-27 16.55.03.excalidraw.md",
     "Gym/Routine.md",
     "testsadapsdm.md",
     "Test.md",
@@ -237,8 +252,6 @@
     "2026-07-29.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "sf/Untitled.md",
-    "create a link.md",
-    "Welcome.md"
+    "sf/Untitled.md"
   ]
 }
