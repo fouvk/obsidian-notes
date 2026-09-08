@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Courses/COMPSCI 1JC3/Untitled.md",
+                "file": "University/Courses/COMPSCI 1JC3/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "intro"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "1af886a3f53d9133",
   "lastOpenFiles": [
+    "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
+    "University/Courses/COMPSCI 1JC3/intro.md",
     "University/Courses/MATH 1B03/Course Information/Fall-2026-MATH-1B03-C02-CLEMENE-Linear-Algebra-I.pdf",
-    "University/Courses/COMPSCI 1JC3/Untitled.md",
     "University/Courses/FIRST QUESTIONS.md",
     "University/Courses/MATH 1B03/Textbooks/Linear Algebra and Its Applications, Global Edition, 6ed -- David C_ Lay, Steven R_ Lay and Judi J_ McDonald -- 6th, 2021 -- Pearson Education Limited -- isbn13 9781292351216 -- c32a7d778cee246182feb5937364885a -- Anna’s Archive.pdf",
     "University/Courses/COMPSCI 1MD3/Introduction to Programming.md",
@@ -208,7 +209,6 @@
     "University/Courses/COMPSCI 1JC3/Textbooks/Haskell The Craft of Functional Programming.pdf",
     "University/Courses/COMPSCI 1JC3/Course Information/haskell-prog-style.pdf",
     "University/Courses/COMPSCI 1JC3/Textbooks/From Computing to Computational Thinking -- Paul S_ Wang -- 2017 -- CRC Press -- 23c5dc5bc83bb965372063ff9cb291bb -- Anna’s Archive.pdf",
-    "University/Courses/COMPSCI 1JC3/Course Information/wmfarmer-bio-sheet-2026a.pdf",
     "University/Courses/COMPSCI 1JC3/Course Information/schedule.pdf",
     "University/Courses/MATH 1B03/Textbooks",
     "University/Courses/MATH 1B03/Course Information",
