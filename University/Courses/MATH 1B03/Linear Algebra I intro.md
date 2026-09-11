@@ -12,10 +12,15 @@ HH 104
 3blue1brown yt channel
 # chapters
 1. linear equations in linear alg
+	- high school instersections
 	- e.g. 3 planes intersecting, 1 line 2 planes, etc.
 2. matric alg^
 3. determinants^
-4. vector spaces (starts getting more abstract)
+4. vector spaces (starts getting more abstract, not confined to r2 or r3)
+	- collection of objects behaving in certain rules, axioms
 5. eigenvalues and eigenvectors
+	- associated with linear transformations, secret directionssimplify lots of problems
 6. orthogonality
+	- little bit
+
 ^technical sections
