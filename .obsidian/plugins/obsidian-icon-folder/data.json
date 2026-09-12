@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTrash",
+      "LiClipboardList",
+      "LiBookText",
       "LiWeight",
-      "LiFolderClosed",
-      "⚙",
-      "LiFunctionSquare",
-      "LiLineChart"
+      "LiFolderClosed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,16 +34,27 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "University/Archive": "LiArchive",
-  "University": "LiUniversity",
-  "University/General": "LiBook",
-  "University/Courses": "LiNotebookText",
-  "University/Courses/PSYCH 1X03": "LiBrain",
-  "University/Courses/COMPSCI 1MD3": "LiCode2",
-  "University/Courses/COMPSCI 1JC3": "LiComputer",
-  "University/Courses/MATH 1ZA3": "LiGitGraph",
-  "University/Courses/WHMIS 1A00": "⛑",
-  "University/Courses/MATH 1B03": "LiFunctionSquare",
-  "University/Courses/ENGINEER 1EE0": "LiFolderClosed",
-  "Gym": "LiWeight"
+  "1) Projects": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff6161"
+  },
+  "1) Projects/COMPSCI 1JC3": "LiComputer",
+  "1) Projects/COMPSCI 1MD3": "LiCode2",
+  "1) Projects/ENGINEER 1EE0": "LiFolderClosed",
+  "1) Projects/MATH 1B03": "LiFunctionSquare",
+  "1) Projects/MATH 1ZA3": "LiGitGraph",
+  "1) Projects/PSYCH 1X03": "LiBrain",
+  "1) Projects/WHMIS 1A00": "⛑",
+  "2) Areas": {
+    "iconName": "LiClipboardList",
+    "iconColor": "#33a7ff"
+  },
+  "3) Resources": {
+    "iconName": "LiBookText",
+    "iconColor": "#62d56a"
+  },
+  "4) Archive": {
+    "iconName": "LiTrash",
+    "iconColor": "#b0b0b0"
+  }
 }
