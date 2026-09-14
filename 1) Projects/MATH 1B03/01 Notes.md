@@ -1,3 +1,4 @@
+# sept 8
 ## office
 hamilton hall 425
 office hours start next week
@@ -24,3 +25,4 @@ HH 104
 	- little bit
 
 ^technical sections
+# sept 10![[Drawing 2026-09-10 15.35.03.excalidraw.png]]

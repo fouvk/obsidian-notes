@@ -40,11 +40,9 @@
   },
   "1) Projects/COMPSCI 1JC3": "LiComputer",
   "1) Projects/COMPSCI 1MD3": "LiCode2",
-  "1) Projects/ENGINEER 1EE0": "LiFolderClosed",
   "1) Projects/MATH 1B03": "LiFunctionSquare",
   "1) Projects/MATH 1ZA3": "LiGitGraph",
   "1) Projects/PSYCH 1X03": "LiBrain",
-  "1) Projects/WHMIS 1A00": "⛑",
   "2) Areas": {
     "iconName": "LiClipboardList",
     "iconColor": "#33a7ff"
@@ -56,5 +54,7 @@
   "4) Archive": {
     "iconName": "LiTrash",
     "iconColor": "#b0b0b0"
-  }
+  },
+  "4) Archive/Fall 2026/ENGINEER 1EE0": "LiFolderClosed",
+  "4) Archive/Fall 2026/WHMIS 1A00": "⛑"
 }

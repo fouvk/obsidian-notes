@@ -1,3 +1,4 @@
+# sept 9
 ## office hours
 <u>Dr. Childs: Monday 3:30pm-4:20pm, Wednesday 3:30pm-4:20pm, Thursday 3:30pm-4:20pm in HH/213  </u>
   
@@ -8,3 +9,6 @@
 **Dr. Stout:** Monday 4:00pm-5:00pm, Thursday 4:00pm-5:00pm  in HH/417
 
 # no calculators
+![[appendix D.png]]
+# sept 10
+![[1.5) Inverse functions and logarithims.png]]
